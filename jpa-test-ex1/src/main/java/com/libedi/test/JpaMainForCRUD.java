@@ -7,7 +7,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 
-public class JpaMain {
+public class JpaMainForCRUD {
 
 	public static void main(String[] args) {
 		// 엔티티 매니저 팩토리 생성
